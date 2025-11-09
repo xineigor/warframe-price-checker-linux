@@ -38,7 +38,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+    git clone https://github.com/xineigor/warframe-price-checker-linux.git
     cd ВАШ_РЕПОЗИТОРИЙ
     ```
 
