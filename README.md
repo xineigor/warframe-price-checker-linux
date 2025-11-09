@@ -28,7 +28,7 @@
 1.  **Скачайте файлы репозитория.**
     Нажмите зелёную кнопку `<> Code` -> `Download ZIP` или клонируйте репозиторий:
     ```bash
-    git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+    git clone https://github.com/xineigor/warframe-price-checker-linux.git
     ```
 
 2.  **Найдите вашу папку для скриншотов.**
