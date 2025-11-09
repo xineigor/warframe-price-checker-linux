@@ -39,7 +39,7 @@
 1.  **Клонируйте репозиторий:**
     ```bash
     git clone https://github.com/xineigor/warframe-price-checker-linux.git
-    cd ВАШ_РЕПОЗИТОРИЙ
+    cd warframe-price-checker-linux
     ```
 
 2.  **Убедитесь, что у вас установлен Python 3.8+.**
